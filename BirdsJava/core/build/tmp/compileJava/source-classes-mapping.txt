@@ -1,0 +1,10 @@
+com/mygdx/game/Background.java
+ com.mygdx.game.Background
+ com.mygdx.game.Background$BGPicture
+com/mygdx/game/MyGdxGame.java
+ com.mygdx.game.MyGdxGame
+com/mygdx/game/Obstacles.java
+ com.mygdx.game.Obstacles
+ com.mygdx.game.Obstacles$WallPair
+com/mygdx/game/Bird.java
+ com.mygdx.game.Bird
